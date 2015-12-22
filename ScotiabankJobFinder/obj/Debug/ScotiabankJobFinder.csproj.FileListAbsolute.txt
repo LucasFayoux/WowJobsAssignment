@@ -1,0 +1,11 @@
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\bin\Debug\ScotiabankJobFinder.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\bin\Debug\ScotiabankJobFinder.exe
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\bin\Debug\ScotiabankJobFinder.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\bin\Debug\HtmlAgilityPack.dll
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\bin\Debug\HtmlAgilityPack.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\bin\Debug\HtmlAgilityPack.xml
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\obj\Debug\ScotiabankJobFinder.exe
+c:\users\lucas\documents\visual studio 2015\Projects\ScotiabankJobFinder\ScotiabankJobFinder\obj\Debug\ScotiabankJobFinder.pdb
+C:\Users\Lucas\Desktop\ScotiaBankJobs\ScotiabankJobFinder\bin\Debug\ScotiabankJobFinder.exe.config
+C:\Users\Lucas\Desktop\ScotiaBankJobs\ScotiabankJobFinder\obj\Debug\ScotiabankJobFinder.exe
+C:\Users\Lucas\Desktop\ScotiaBankJobs\ScotiabankJobFinder\obj\Debug\ScotiabankJobFinder.pdb
